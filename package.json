@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-andy-flow",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0-beta2",
   "description": "my eslint rules for flow",
   "main": "index.js",
   "keywords": [
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jedwards1211/eslint-config-andy-flow/issues"
   },
-  "homepage": "https://github.com/jedwards1211/eslint-config-andy-flow#readme"
+  "homepage": "https://github.com/jedwards1211/eslint-config-andy-flow#readme",
+  "dependencies": {
+    "eslint-plugin-flowtype": "^2.25.0"
+  }
 }
