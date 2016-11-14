@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-andy-flow",
+  "version": "1.0.0-beta1",
+  "description": "my eslint rules for flow",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "flow"
+  ],
+  "author": "Andy Edwards",
+  "license": "MIT"
+}
