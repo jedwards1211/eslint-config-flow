@@ -8,5 +8,13 @@
     "flow"
   ],
   "author": "Andy Edwards",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwards1211/eslint-config-andy-flow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jedwards1211/eslint-config-andy-flow/issues"
+  },
+  "homepage": "https://github.com/jedwards1211/eslint-config-andy-flow#readme"
 }
