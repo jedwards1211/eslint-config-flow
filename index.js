@@ -17,13 +17,19 @@ module.exports = {
       "never"
     ],
     "flowtype/no-dupe-keys": 2,
-    "flowtype/require-parameter-type": 2,
+    "flowtype/no-primitive-constructor-types": 2,
+    "flowtype/require-parameter-type": [
+      2,
+      {
+        "excludeArrowFunctions": "expressionsOnly"
+      }
+    ],
     "flowtype/require-return-type": [
       2,
       "always",
       {
         "annotateUndefined": "never",
-	"excludeArrowFunctions": "expressionsOnly"
+        "excludeArrowFunctions": true
       }
     ],
     "flowtype/require-valid-file-annotation": 2,
