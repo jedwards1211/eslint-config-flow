@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jedwards1211/eslint-config-andy-flow#readme",
   "peerDependencies": {
-    "eslint-plugin-flowtype": "^2.25.0"
+    "eslint-plugin-flowtype": "^2.30.3"
   }
 }
