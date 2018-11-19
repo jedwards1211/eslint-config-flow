@@ -12,10 +12,6 @@ module.exports = {
       2,
       "always-multiline"
     ],
-    "flowtype/generic-spacing": [
-      2,
-      "never"
-    ],
     "flowtype/no-dupe-keys": 2,
     "flowtype/no-primitive-constructor-types": 2,
     "flowtype/require-parameter-type": [
@@ -61,4 +57,3 @@ module.exports = {
     }
   }
 }
-
