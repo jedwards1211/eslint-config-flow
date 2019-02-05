@@ -35,7 +35,10 @@ module.exports = {
     ],
     "flowtype/space-after-type-colon": [
       2,
-      "always"
+      "always",
+      {
+	"allowLineBreak": true
+      }
     ],
     "flowtype/space-before-generic-bracket": [
       2,
