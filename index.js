@@ -24,8 +24,8 @@ module.exports = {
       2,
       "always",
       {
-        "annotateUndefined": "never",
-        "excludeArrowFunctions": true
+        "annotateUndefined": "ignore",
+        "excludeArrowFunctions": "expressionsOnly"
       }
     ],
     "flowtype/require-valid-file-annotation": 2,
