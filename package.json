@@ -1,6 +1,6 @@
 {
   "name": "@jedwards1211/eslint-config-flow",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "my eslint rules for flow",
   "main": "index.js",
   "keywords": [
